@@ -1,6 +1,6 @@
 {
   "name": "gradient.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create colorful gradient arrays in a single line of code.",
   "main": "gradient.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "gradient"
   ],
-  "author": "NotTimTam",
+  "author": "nottimtam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NotTimTam/gradient.js/issues"
