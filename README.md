@@ -19,6 +19,8 @@ Gradient.create(500, "rgb(255, 209, 209)", "#FBFFDE");
 ```
 
 ![example](example.png)
+<br>
+<sup>(an image created using canvas and data from the above array)<sup/>
 
 ### `Gradient.create(resolution, ...colors);`
 
