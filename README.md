@@ -15,7 +15,15 @@ npm i gradient.js
 ```js
 const { Gradient } = require("gradient.js");
 
-Gradient.create(500, "rgb(255, 209, 209)", "#FBFFDE");
+Gradient.create(
+	100,
+	"rgb(255, 209, 209)",
+	"#FBFFDE",
+	"#D7FDDF",
+	"#E0FFFD",
+	"hsl(240, 96%, 91%)",
+	"#F9DEFF"
+);
 ```
 
 ![example](example.png)

@@ -1,6 +1,6 @@
 {
   "name": "gradient.js",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "Create colorful gradient arrays in a single line of code.",
   "main": "gradient.js",
   "scripts": {
