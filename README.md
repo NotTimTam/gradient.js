@@ -36,7 +36,7 @@ Gradient.create(
 
 ### `Gradient.colorKeyMap`
 
-`Gradient.colorKeyMap` is an array of every CSS color name and its corrosponding RGBA value.
+`Gradient.colorKeyMap` is an array of every CSS color name and its corresponding RGBA value.
 
 ```js
 black: [0, 0, 0, 1],
